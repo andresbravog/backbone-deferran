@@ -1,0 +1,40 @@
+{
+  "name": "backbone-deferran",
+  "description": "Retry Backbone.ajax & $.ajax requests when response is accepted",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ferran Basore",
+    "url": "https://github.com/fcsonline/"
+  },
+  "bugs": "https://github.com/andresbravog/backbone-ajaxretry/issues",
+  "contributors": [
+    "andresbravog",
+    "fcsonline"
+  ],
+  "dependencies": {
+    "extend-object": "^1.0.0",
+    "lodash.defaults": "^3.1.1"
+  },
+  "docs": "https://github.com/andresbravog/backbone-deferran",
+  "download": "http://code.jquery.com/#backbone-deferran",
+  "homepage": "https://github.com/andresbravog/backbone-deferran",
+  "keywords": [
+    "Backbone",
+    "ajax",
+    "retry",
+    "deferred",
+    "accepted"
+  ],
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/andresbravog/backbone-deferran/blob/master/LICENSE"
+    }
+  ],
+  "main": "backbone-deferran.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andresbravog/backbone-deferran.git"
+  },
+  "title": "Backbone.js deFerran"
+}
