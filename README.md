@@ -13,13 +13,13 @@ npm install --save backbone-deferred
 &nbsp;<br>In your client app `main.js`, add the following line to default retry settings:
 
 ```javascript
-require('backbone-deferrad');
+require('backbone-deferran');
 ```
 
 Or override any of the default settings using `set`: passing keyword arguments
 
 ```javascript
-require('backbone-deferred').set({ retires: 10 });
+require('backbone-deferran').set({ retires: 10 });
 ```
 
 &nbsp;
