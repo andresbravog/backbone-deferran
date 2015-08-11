@@ -3,7 +3,7 @@
   "description": "Retry Backbone.ajax & $.ajax requests when response is accepted",
   "version": "0.0.1",
   "author": {
-    "name": "Ferran Basore",
+    "name": "Ferran Basora",
     "url": "https://github.com/fcsonline/"
   },
   "bugs": "https://github.com/andresbravog/backbone-ajaxretry/issues",
