@@ -1,4 +1,4 @@
-# Backbone.js ajaxRetry
+# Backbone.js DeFerran
 
 Retry Backbone.ajax and $.ajax requests when `202 - Accepted` code is received.
 
